@@ -4,3 +4,5 @@
 *Debug
 /mcu/apb2_leds/lib
 /mcu/apb2_leds/template
+*.vcd
+*.vpp
