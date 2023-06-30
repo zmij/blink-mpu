@@ -1,0 +1,33 @@
+-series GW1NSR
+-device GW1NSR-4C
+-device_version 
+-package QFN48P
+-part_number GW1NSR-LV4CQN48PC7/I6
+
+
+-mod_name gowin_pllvr
+-file_name gowin_pllvr
+-path /media/psf/Home/gitrepo/blink-mpu/src/gowin_pllvr/
+-type PLL
+-pllvr true
+-file_type vlg
+-dev_type GW1NSR-4C
+-dyn_idiv_sel false
+-idiv_sel 1
+-dyn_fbdiv_sel false
+-fbdiv_sel 2
+-dyn_odiv_sel false
+-odiv_sel 16
+-dyn_da_en false
+-rst_sig false
+-rst_sig_p false
+-pll_reg false
+-fclkin 27
+-clkfb_sel 0
+-en_lock false
+-clkout_bypass false
+-en_clkoutp false
+-clkoutp_bypass false
+-en_clkoutd false
+-clkoutd_bypass false
+-en_clkoutd3 false
