@@ -1,3 +1,6 @@
 /.vscode
 /blink-mpu.gprj.user
-/impl
+*impl
+*Debug
+/mcu/apb2_leds/lib
+/mcu/apb2_leds/template
