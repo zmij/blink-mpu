@@ -24,7 +24,7 @@ To get started with the "APB2 Blinky" project and develop APB2 peripherals for t
 1. Clone this repository to your local machine.
 2. Review the Verilog code in the `fpga/` directory for the APB2 peripheral implementation.
 3. Explore the MCU firmware code in the `mcu/` directory for interacting with the APB2 peripheral.
-4. Refer to the [Reddit post](link-to-reddit-post) for a detailed guide and insights into the development process.
+4. Refer to the [Reddit post](https://www.reddit.com/r/GowinFPGA/comments/14nfw38/developing_apb2_peripheral_for_gowin_tangnano_4k/) for a detailed guide and insights into the development process.
 5. Install the necessary development tools mentioned above.
 6. Set up the environment for Gowin EDA, Gowin GMD IDE, and openFPGALoader following the provided documentation and resources.
 
